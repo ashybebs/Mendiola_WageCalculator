@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mendiola_WageCalculator</string>
+    <string name="total_wage_received">Total Wage Received:</string>
+    <string name="total_ot_wage">Total OT wage:</string>
+    <string name="def_value">0</string>
+    <string name="total_regular_wage">Total Regular Wage:</string>
+    <string name="total_hours_worked">Total Hours Worked:</string>
+    <string name="total_ot_hours">Total OT Hours:</string>
+    <string name="btn_return">return</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="next">Next</string>
+    <string name="hours">Hours</string>
+</resources>
